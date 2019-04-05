@@ -11,12 +11,17 @@ I've choosen to send all my log in one file log file. Find a sample configuratio
 
 # Results in Kibana 
 
+**Firewall Dashboard**
 ![Firewall Dashboard](https://raw.githubusercontent.com/Twibow/SophosUTM-Logastsh/master/screenshot/Firewall_Kibana.png)
 
+**IPS Dashboard**
 ![IPS Dashboard](https://raw.githubusercontent.com/Twibow/SophosUTM-Logastsh/master/screenshot/IPS_Kibana.png)
 
+**Web Proxy Dashboard**
 ![Web Proxy Dashboard](https://raw.githubusercontent.com/Twibow/SophosUTM-Logastsh/master/screenshot/Proxy_Kibana.png)
 
+**VPN Dashboard**
 ![VPN Dashboard](https://raw.githubusercontent.com/Twibow/SophosUTM-Logastsh/master/screenshot/VPN_Kibana.png)
 
+**WAF Dashboard**
 ![WAF Dashboard](https://raw.githubusercontent.com/Twibow/SophosUTM-Logastsh/master/screenshot/WAF_Kibana.png)
