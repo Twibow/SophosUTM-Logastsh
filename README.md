@@ -1,4 +1,4 @@
-# Logstash Grok Pattner for Sophos UTM (9.x)
+# Logstash Grok Pattner for Sophos UTM (9.6)
 
 This repo contain my integration of Sophos UTM log's in ELK. 
 For send you log's in ELK from Sophos UTM, you can go on : 
